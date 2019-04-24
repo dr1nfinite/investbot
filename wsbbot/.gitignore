@@ -1,0 +1,17 @@
+bin/
+obj/
+*.user
+*.userprefs
+*.suo
+*.pidb
+_ReSharper*/
+TestResults/
+*.mdf
+*.psess
+*.vsp
+
+# StyleCop files
+StyleCop.Cache
+.vs/config/applicationhost.config
+/.vs
+/packages
